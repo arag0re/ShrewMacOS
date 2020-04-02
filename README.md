@@ -2,6 +2,7 @@
  Shrew for MacOS 10.13.6
 
  Guide to build ShrewSoftVPN for MacOS working and tested under 10.13.6 
+ 
  This guide is based of a guide from http://kb.amft-it.de/doku.php?id=kb-macos:shrewsoftvpn
  I only edited it to work in 2020 with latest releases of everything that brew ships 
  
