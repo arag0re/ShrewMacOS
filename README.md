@@ -136,7 +136,7 @@ cmake -DQTGUI=YES -DNATT=YES -DCMAKE_INSTALL_PREFIX=/usr/local -DQT_QMAKE_EXECUT
 ### here it is important that alsp the path to your installed qt4 ist correct 
 
 ### then 
-` make `
+` make `sudo
 ### and 
 ` sudo make install` needs sudo rights to write something in /Library/Frameworks
 
@@ -162,7 +162,7 @@ to
 
 ## Last steps
 ``` 
-udo cp net.shrew.iked.plist /Library/LaunchDaemons
+sudo cp net.shrew.iked.plist /Library/LaunchDaemons
 sudo cp /usr/local/etc/iked.conf.sample /usr/local/etc/iked.conf
 cd /Library/LaunchDaemons
 sudo launchctl load net.shrew.iked.plist

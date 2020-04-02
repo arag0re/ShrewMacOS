@@ -6,7 +6,7 @@
 	<string>net.shrew.iked</string>
         <key>ProgramArguments</key>
         <array>
-		<string>/usr/sbin/iked</string>
+		<string>/usr/local/sbin/iked</string>
                 <string>-F</string>
         </array>
 	<key>RunAtLoad</key>

@@ -1,0 +1,51 @@
+/usr/local/sbin/iked
+/usr/local/Cellar/openssl@1.0/1.0.2t/share/man/man8/iked.8
+/usr/local/Cellar/openssl@1.0/1.0.2t/share/man/man5/iked.conf.5
+/usr/local/etc/iked.conf.sample
+/usr/local/bin/ikec
+/usr/local/Cellar/openssl@1.0/1.0.2t/share/man/man1/ikec.1
+/Library/Frameworks/ShrewSoftIke.framework/ShrewSoftIke
+/Library/Frameworks/ShrewSoftIke.framework/Resources
+/Library/Frameworks/ShrewSoftIke.framework/Versions/Current
+/Library/Frameworks/ShrewSoftIke.framework/Versions/2.2.1/ShrewSoftIke
+/Library/Frameworks/ShrewSoftIke.framework/Versions/2.2.1/Resources/Info.plist
+/Library/Frameworks/ShrewSoftIp.framework/Resources
+/Library/Frameworks/ShrewSoftIp.framework/Versions/Current
+/Library/Frameworks/ShrewSoftIp.framework/Versions/2.2.1/Resources/Info.plist
+/Library/Frameworks/ShrewSoftIp.framework/Versions/2.2.1/ShrewSoftIp
+/Library/Frameworks/ShrewSoftIp.framework/ShrewSoftIp
+/Library/Frameworks/ShrewSoftIdb.framework/Resources
+/Library/Frameworks/ShrewSoftIdb.framework/Versions/Current
+/Library/Frameworks/ShrewSoftIdb.framework/Versions/2.2.1/Resources/Info.plist
+/Library/Frameworks/ShrewSoftIdb.framework/Versions/2.2.1/ShrewSoftIdb
+/Library/Frameworks/ShrewSoftIdb.framework/ShrewSoftIdb
+/Library/Frameworks/ShrewSoftIth.framework/Resources
+/Library/Frameworks/ShrewSoftIth.framework/Versions/Current
+/Library/Frameworks/ShrewSoftIth.framework/Versions/2.2.1/Resources/Info.plist
+/Library/Frameworks/ShrewSoftIth.framework/Versions/2.2.1/ShrewSoftIth
+/Library/Frameworks/ShrewSoftIth.framework/ShrewSoftIth
+/Library/Frameworks/ShrewSoftLog.framework/ShrewSoftLog
+/Library/Frameworks/ShrewSoftLog.framework/Resources
+/Library/Frameworks/ShrewSoftLog.framework/Versions/Current
+/Library/Frameworks/ShrewSoftLog.framework/Versions/2.2.1/ShrewSoftLog
+/Library/Frameworks/ShrewSoftLog.framework/Versions/2.2.1/Resources/Info.plist
+/Library/Frameworks/ShrewSoftPfkey.framework/ShrewSoftPfkey
+/Library/Frameworks/ShrewSoftPfkey.framework/Resources
+/Library/Frameworks/ShrewSoftPfkey.framework/Versions/Current
+/Library/Frameworks/ShrewSoftPfkey.framework/Versions/2.2.1/ShrewSoftPfkey
+/Library/Frameworks/ShrewSoftPfkey.framework/Versions/2.2.1/Resources/Info.plist
+/Library/Frameworks/ShrewSoftQtCore.framework/Contents/Info.plist
+/Library/Frameworks/ShrewSoftQtCore.framework/Versions/4/ShrewSoftQtCore
+/usr/local/lib/ShrewSoftQtGui.framework/Contents/Info.plist
+/Library/Frameworks/ShrewSoftQtGui.framework/Versions/4/ShrewSoftQtGui
+/Library/Frameworks/ShrewSoftQtGui.framework/Versions/4/Resources/qt_menu.nib/classes.nib
+/Library/Frameworks/ShrewSoftQtGui.framework/Versions/4/Resources/qt_menu.nib/info.nib
+/Library/Frameworks/ShrewSoftQtGui.framework/Versions/4/Resources/qt_menu.nib/keyedobjects.nib
+/Applications/Shrew Soft VPN Access Manager.app/Contents/MacOS/Shrew Soft VPN Access Manager
+/Applications/Shrew Soft VPN Access Manager.app/Contents/Resources/qikea.icns
+/Applications/Shrew Soft VPN Access Manager.app/Contents/Info.plist
+/usr/local/Cellar/openssl@1.0/1.0.2t/share/man/man1/qikea.1
+/Applications/Shrew Soft VPN Client Connect.app/Contents/MacOS/Shrew Soft VPN Client Connect
+/Applications/Shrew Soft VPN Client Connect.app/Contents/Resources/qikec.icns
+/Applications/Shrew Soft VPN Client Connect.app/Contents/Info.plist
+/usr/local/Cellar/openssl@1.0/1.0.2t/share/man/man1/qikec.1
